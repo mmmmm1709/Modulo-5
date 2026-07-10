@@ -1,0 +1,18 @@
+Una plataforma que promueve participación ciudadana necesita base de datos
+porque sin ella la información se pierde cada vez que el servidor se reinicia
+y no hay forma de hacer seguimiento a los procesos comunitarios.
+
+La autenticación es igual de importante porque garantiza que solo las personas
+autorizadas puedan realizar acciones sensibles como crear, modificar o eliminar
+información dentro de la plataforma.
+
+Sin control de acceso cualquier persona podría alterar registros importantes
+o acceder a datos que no le corresponden, lo que pondría en riesgo la
+confianza de la comunidad en el sistema.
+
+La protección de información es una responsabilidad ética además de técnica,
+porque las personas que participan en una plataforma comunitaria confían en
+que sus datos serán manejados con cuidado y no expuestos sin su consentimiento.
+
+En resumen, una plataforma participativa que no protege su información no
+solo falla técnicamente sino que también falla a la comunidad que depende de ella.
