@@ -1,0 +1,17 @@
+Flujo de automatización con n8n y Telegram:
+
+Evento que activa el flujo:
+Un nuevo reporte es registrado en el sistema.
+
+Acción:
+n8n detecta el nuevo registro y envía un mensaje automático al canal de Telegram del equipo.
+
+Mensaje que se enviaría:
+"Nuevo reporte recibido. Por favor revisar el sistema para hacer seguimiento."
+
+Información que NO debe enviarse por seguridad:
+- Nombres completos de los ciudadanos.
+- Números de documento de identidad.
+- Direcciones o ubicaciones exactas.
+- Números de teléfono.
+- Claves o tokens de acceso.
